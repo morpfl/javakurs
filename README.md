@@ -6,6 +6,8 @@
 
 ### Nützliche Links:
 - http://fsr.github.io/java-lessons/ (Übungen)
+- moritz.pfluegner@mailbox.tu-dresden.de
+- yannick.spoerl@mailbox.tu-dresden.de
 
 ### Basics
 - Datei erstellen und als `MeineKlasse.java`  speichern
