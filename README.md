@@ -7,7 +7,7 @@
 ### Nützliche Links:
 - http://fsr.github.io/java-lessons/ (Übungen)
 - http://pastebin.com (Dein Code)
-- http://piratepad.de/p/javakurs (Link zu deinem Code)
+- http://piratenpad.de/p/javakurs (Link zu deinem Code)
 - moritz.pfluegner@mailbox.tu-dresden.de
 - yannick.spoerl@mailbox.tu-dresden.de
 
