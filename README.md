@@ -26,6 +26,7 @@
 | Thomas | :star: |
 | Benjamin | :star: |
 | Pavel | :star: |
+| Michael | :star: |
 
 ### Java coden und kompilieren:
 #### IDE
