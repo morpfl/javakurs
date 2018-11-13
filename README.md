@@ -20,14 +20,14 @@
 | Name | # :star: |
 |----------|---------|
 | Robert | :star: |
-| Max | :star: | :star:
+| Max | :star: | :star: |
 | Frederik | :star: |
 | David | :star: |
-| Jonas | :star: | :star:
+| Jonas | :star: | :star: |
 | Thomas | :star: |
 | Benjamin | :star: |
 | Pavel | :star: |
-| Michael | :star: | :star:
+| Michael | :star: | :star: |
 
 ### Java coden und kompilieren:
 #### IDE
