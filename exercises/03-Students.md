@@ -41,7 +41,7 @@ eigenen 2 Klassen fertig geschrieben hast, kannst du sie testen, in dem du
 eine dritte Klasse `Main.java` erstellst und dort unseren Code einsetzt, oder
 auf [github.com/morpfl/javakurs/Excercises/03-Students/](github.com/morpfl/javakurs/Excercises/03-Students/) die fertige Klasse downloadest.
 
-```
+```java
 public class Main{
   public static void main(String[] args) {
 
