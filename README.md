@@ -3,6 +3,7 @@
 ### Repository für den Java-Beginner-Kurs Mittwoch 4.DS (APB/E046) WiSe 18/19
 - `slides`: Die gezeigten Folien als PDFs
 - `solutions`: Musterlösungen zu den gestellten Aufgaben</br>
+- `excercises`: Im Kurs besprochene Aufgaben
 
 ### Nützliche Links:
 - http://fsr.github.io/java-lessons/ (Übungen)
@@ -19,14 +20,14 @@
 | Name | # :star: |
 |----------|---------|
 | Robert | :star: |
-| Max | :star: |
+| Max | :star: | :star:
 | Frederik | :star: |
 | David | :star: |
-| Jonas | :star: |
+| Jonas | :star: | :star:
 | Thomas | :star: |
 | Benjamin | :star: |
 | Pavel | :star: |
-| Michael | :star: |
+| Michael | :star: | :star:
 
 ### Java coden und kompilieren:
 #### IDE
