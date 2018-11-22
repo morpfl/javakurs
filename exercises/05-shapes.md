@@ -1,6 +1,6 @@
 # Übung 5
 
-In dieser Übung wollen wir einfach Formen betrachten.
+In dieser Übung wollen wir einfache Formen betrachten.
 
 
 - **Quadrilateral**: Hört sich kompliziert an, heißt einfach "Viereck".
