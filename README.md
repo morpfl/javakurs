@@ -1,8 +1,7 @@
 # Java-Kurs
 
 ### Aktuelles: ###
-- Nächste Woche findet der Java-Kurs am Donnerstag, 22.11.18 um 14.50 Uhr statt.
-- Anmerkung zur aktuellen Übung: Bitte die Hinweise ignorieren.
+
 
 ### Repository für den Java-Beginner-Kurs Mittwoch 4.DS (APB/E046) WiSe 18/19
 - `slides`: Die gezeigten Folien als PDFs
@@ -27,7 +26,7 @@
 | Max | :star: :star: |
 | Frederik | :star: |
 | David | :star: |
-| Jonas | :star: :star: |
+| Jonas | :star: :star: :star:|
 | Thomas | :star: |
 | Benjamin | :star: |
 | Pavel | :star: |
