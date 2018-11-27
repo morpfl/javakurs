@@ -25,7 +25,7 @@ dürfen die Aufgabe also gerne zuhause beginnen bzw. erledigen ;-)
 | Name | # :star: |
 |----------|---------|
 | Robert | :star: |
-| Max | :star: :star: |
+| Max | :star: :star: :star: |
 | Frederik | :star: |
 | David | :star: |
 | Jonas | :star: :star: :star: :star:|
