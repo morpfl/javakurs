@@ -7,6 +7,7 @@ Falls jemand letzte Woche nicht da war, oder aus unerfindlichen Gründen die Lö
 Um etwas objektorientierter zu arbeiten, soll eine abstrakte Klasse `shapes` implementiert werden. Diese besitzt folgende Attribute:
 - `color`
 - `id`
+
 Weiterhin soll sie eine "normale" Methode `getColor`, sowie die abstrakten Methoden `calculateArea` und `calculatePerimeter` enthalten. (Tipp: Denke daran, dass diese beiden Methoden nicht innerhalb der abstrakten Klasse implementiert werden müssen.)
 
 **Was muss zusätzlich beachtet werden:**
@@ -17,6 +18,7 @@ Weiterhin soll sie eine "normale" Methode `getColor`, sowie die abstrakten Metho
 
 **Was soll das Programm können:**
 Das Programm soll folgende Main-Methode ausführen können:
+
 `
 public static void main(String[] args) {
 		Circle circle = new Circle(3.4, "blue", 1);
