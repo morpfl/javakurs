@@ -18,7 +18,6 @@ Weiterhin soll sie eine "normale" Methode `getColor`, sowie die abstrakten Metho
 
 **Was soll das Programm können:**
 Das Programm soll folgende Main-Methode ausführen können:
-
 `
 public static void main(String[] args) {
 		Circle circle = new Circle(3.4, "blue", 1);
