@@ -4,7 +4,7 @@ In dieser Übung wollen wir unsere Formen-Anwendung noch etwas erweitern. Dafür
 Falls jemand letzte Woche nicht da war, oder aus unerfindlichen Gründen die Lösung nicht mehr hat, könnt ihr als Grundlage die Musterlösung nutzen.
 
 **Wir wollen folgendes hinzufügen:** 
-Um etwas objektorientierter zu arbeiten, soll eine abstrakte Klasse `shapes` implementiert werden. Diese besitzt folgende Attribute:
+Um etwas objektorientierter zu arbeiten, soll eine abstrakte Klasse `Shape` implementiert werden. Diese besitzt folgende Attribute:
 - `color`
 - `id`
 
