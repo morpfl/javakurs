@@ -20,6 +20,7 @@ Weiterhin soll sie eine "normale" Methode `getColor`, sowie die abstrakten Metho
 Das Programm soll folgende Main-Methode ausführen können:
 
 `
+
 public static void main(String[] args) {
 		Circle circle = new Circle(3.4, "blue", 1);
 		Parallelogram parallelogram = new Parallelogram(2.3, 5.4, "grey", 2, 2.4);
@@ -39,4 +40,5 @@ public static void main(String[] args) {
 		}
 	}
 `
+
 
