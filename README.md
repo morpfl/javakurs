@@ -1,6 +1,8 @@
 # Java-Kurs
 
 ### Aktuelles: ###
+- Wir werden am 28.11. die begonnene Excercise 05 erweitern, alle, die die Aufgabe noch nicht fertig haben oder nicht da waren
+dürfen die Aufgabe also gerne zuhause beginnen bzw. erledigen ;-)
 
 
 ### Repository für den Java-Beginner-Kurs Mittwoch 4.DS (APB/E046) WiSe 18/19
@@ -23,10 +25,10 @@
 | Name | # :star: |
 |----------|---------|
 | Robert | :star: |
-| Max | :star: :star: |
+| Max | :star: :star: :star: |
 | Frederik | :star: |
 | David | :star: |
-| Jonas | :star: :star: :star:|
+| Jonas | :star: :star: :star: :star:|
 | Thomas | :star: |
 | Benjamin | :star: |
 | Pavel | :star: |
