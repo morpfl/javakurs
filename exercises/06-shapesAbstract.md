@@ -19,9 +19,8 @@ Weiterhin soll sie eine "normale" Methode `getColor`, sowie die abstrakten Metho
 **Was soll das Programm können:**
 Das Programm soll folgende Main-Methode ausführen können:
 
-`
 
-public static void main(String[] args) {
+`public static void main(String[] args) {
 		Circle circle = new Circle(3.4, "blue", 1);
 		Parallelogram parallelogram = new Parallelogram(2.3, 5.4, "grey", 2, 2.4);
 		Square square = new Square(5, "red", 3);
@@ -38,7 +37,6 @@ public static void main(String[] args) {
 			System.out.println("The perimeter of it: " + shape[i].calculatePerimeter());
 			System.out.println("---------------------------------------------");
 		}
-	}
-`
+}`
 
 
