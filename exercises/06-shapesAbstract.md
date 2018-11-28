@@ -38,4 +38,22 @@ public static void main(String[] args) {
 		}
 }
 ```
+**Dabei soll eine ähnliche Ausgabe entstehen wie...**
+```
+The shape is a: class Circle
+The color of the shape is: blue
+The area of it: 36.3167804
+The perimeter of it: 21.362811999999998
+---------------------------------------------
+The shape is a: class Parallelogram
+The color of the shape is: grey
+The area of it: 5.52
+The perimeter of it: 15.4
+---------------------------------------------
+The shape is a: class Square
+The color of the shape is: red
+The area of it: 25.0
+The perimeter of it: 20.0
+---------------------------------------------
+```
 
