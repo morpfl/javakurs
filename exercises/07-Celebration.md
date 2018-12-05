@@ -17,4 +17,4 @@ In der Übung geht es vorranig um das Konzept des Interfaces. Bei den Rückgabew
 
 **Zusatz für Schnelle**
 
-Implementiere einne Switch-Case Anweisung für die Funktion `celebrate()`. Dabei wäre es zum Beispiel denkbar, der Funktion ein `int drink_number` zu übergeben. Jedes Getränk (Sterni, Wein, Cocktails...) haben dann unterschiedliche Nummern. Als Rückgabe wird dann das entsprechende Getränk zurückgegeben. Die Zuordnung von Nummern zu Getränken könnt ihr selbst vornehmen. 
+Implementiere eine Switch-Case Anweisung für die Funktion `celebrate()`. Dabei wäre es zum Beispiel denkbar, der Funktion ein `int drink_number` zu übergeben. Jedes Getränk (Sterni, Wein, Cocktails...) haben dann unterschiedliche Nummern. Als Rückgabe wird dann das entsprechende Getränk zurückgegeben. Die Zuordnung von Nummern zu Getränken könnt ihr selbst vornehmen. 
