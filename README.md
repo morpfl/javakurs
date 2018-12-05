@@ -20,7 +20,7 @@ dürfen die Aufgabe also gerne zuhause beginnen bzw. erledigen ;-)
 ### Fleißige Bienchen:
 - Übung erledigt und hochgeladen: 1x :star:
 - Musterlösung für faule Tutoren erstellt: 3-5x :star: (müssen wir noch ausrechnen wenn das tatsächlich jemand macht)
-- Gewinner kriegen tolle Preise (Vorschlag war Schokolade, Mate, (Schokoladen-Mathe???), ...) 
+- Gewinner kriegen tolle Preise (Vorschlag war Schokolade, Mate, ...) 
 
 | Name | # :star: |
 |----------|---------|
