@@ -57,4 +57,4 @@ public class Main {
 }
 ```
 
-![UML](https://github.com/morpfl/javakurs/blob/master/exercises/08_uml.png)
+![UML](https://github.com/morpfl/javakurs/blob/master/exercises/mail.png)
