@@ -36,7 +36,7 @@ public class Main {
 
 		addresseesOfPostman0[0] = addressee0;
 		addresseesOfPostman1[0] = addressee1;
-		addresseesOfPostman1[1] = addressee1;
+		addresseesOfPostman1[1] = addressee2;
 		addresseesOfPostman2[0] = addressee3;
 
 		postman0.setOrders(addresseesOfPostman0);
