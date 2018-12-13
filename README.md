@@ -1,8 +1,8 @@
 # Java-Kurs
 
 ### Aktuelles: ###
-- Wir werden am 28.11. die begonnene Excercise 05 erweitern, alle, die die Aufgabe noch nicht fertig haben oder nicht da waren
-dürfen die Aufgabe also gerne zuhause beginnen bzw. erledigen ;-)
+- Mittwoch 19.12. werden wir nicht im übliche PC-Pool Raum sein, sondern in einem noch bekanntzugebenden anderen Raum. 
+  Außerdem machen wir keinen neuen Stoff sondern irgendwas cooles UND ihr dürft gerne Lebkuchen, Plätzchen, Glühwein oder sonstige Leckereien mitbringen, dann wirds entspannter, aber bitte keine Kerzen (anders als angekündigt) es sei denn Kerzen ohne echte Flammen damit wir unserer tolle Fakultät nicht abfackeln.
 
 
 ### Repository für den Java-Beginner-Kurs Mittwoch 4.DS (APB/E046) WiSe 18/19
