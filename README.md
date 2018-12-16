@@ -1,7 +1,7 @@
 # Java-Kurs
 
 ### Aktuelles: ###
-- Mittwoch 19.12. werden wir nicht im übliche PC-Pool Raum sein, sondern in einem noch bekanntzugebenden anderen Raum. 
+- Die Stunde Mittwoch 19.12. wird am Donnerstag 2. DS stattfinden, weiterhin werden wir nicht im übliche PC-Pool Raum sein, sondern in einem noch bekanntzugebenden anderen Raum. 
   Außerdem machen wir keinen neuen Stoff sondern irgendwas cooles UND ihr dürft gerne Lebkuchen, Plätzchen, Glühwein oder sonstige Leckereien mitbringen, dann wirds entspannter, aber bitte keine Kerzen (anders als angekündigt) es sei denn Kerzen ohne echte Flammen damit wir unserer tolle Fakultät nicht abfackeln.
 
 
