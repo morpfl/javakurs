@@ -24,9 +24,9 @@
 
 | Name | # :star: |
 |----------|---------|
-| Robert | :star: |
+| Robert | :star: | :star: |
 | Max | :star: :star: :star: |
-| Frederik | :star: |
+| Frederik | :star: | :star: |
 | David | :star: |
 | Jonas | :star: :star: :star: :star:|
 | Thomas | :star: |
