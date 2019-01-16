@@ -26,7 +26,7 @@ einer `Bibliothek` erlaubt sind (zB.: Ein `Buch` das bereits entliehen ist kann 
 - Erweitere Klasse `Buch`, sodass jedes ausgeliehene Exemplar die `ID` seines `Nutzer` kennt
 - Erweitere die `Bibliothek` so, dass `Bücher` aufgenommen werden können
 - eine `Main-Methode` in der `Bücher` aufgenommen, entliehen und zurückgegeben werden
-- Die `Bibliothek` verlangt außerdem eine Gebühr von 1 Euro pro ausgeliehenes `Buch`, wenn ein `Nutzer bereits mehr als 10 `Bücher`
+- Die `Bibliothek` verlangt außerdem eine Gebühr von 1 Euro pro ausgeliehenes `Buch`, wenn ein `Nutzer` bereits mehr als 10 `Bücher`
 entliehen hat, daher speichert sie ab, welcher `Nutzer`und wie viel `Gebühr` schuldig ist
 
 **Für die ganz Schnellen**
