@@ -27,9 +27,9 @@ einer `Bibliothek` erlaubt sind (zB.: Ein `Buch` das bereits entliehen ist kann 
 - Erweitere die `Bibliothek` so, dass `Bücher` aufgenommen werden können
 - eine `Main-Methode` in der `Bücher` aufgenommen, entliehen und zurückgegeben werden
 - Die `Bibliothek` verlangt außerdem eine Gebühr von 1 Euro pro ausgeliehenes `Buch`, wenn ein `Nutzer bereits mehr als 10 `Bücher`
-entliehen hat, daher speichert sie ab, welcher `Nutzer` und wie viel `Gebühr` schuldig ist
+entliehen hat, daher speichert sie ab, welcher `Nutzer`und wie viel `Gebühr` schuldig ist
 
-**Für die ganz schnellen**
+**Für die ganz Schnellen**
 - Gebe den Namen des `Nutzer` eines entliehenen `Buches` zurück
 - Gebe aus, ob für die `Bücher`, die ein `Nutzer` entliehen hat, noch verfügbare Exemplare in der `Bibliothek` stehen
 - Recherechiere welche Implementation der Collections (zB. HashMap, TreeMap, ...) die effizienteste in unserem Anwendungsfall ist
